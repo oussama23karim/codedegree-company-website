@@ -1,1 +1,1 @@
-# mazen-canada-project
+# codedegree-company-website
